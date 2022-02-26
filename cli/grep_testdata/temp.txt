@@ -1,0 +1,6 @@
+Hello.
+This file is to check the existence of the word hello.
+I am a temp file.
+I am in testdata directory.
+Say hello test case.
+
